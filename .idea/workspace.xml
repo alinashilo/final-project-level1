@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7efec1b4-79d5-4d4a-a203-ab85288b0d50" name="Default Changelist" comment="">
+    <list default="true" id="7efec1b4-79d5-4d4a-a203-ab85288b0d50" name="Default Changelist" comment="update animation in block &quot;works&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/style.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../first-project-course" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../js-lab" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -75,7 +77,8 @@
       <workItem from="1578415140099" duration="6011000" />
       <workItem from="1578877150910" duration="12819000" />
       <workItem from="1578933935662" duration="12450000" />
-      <workItem from="1579033026174" duration="30819000" />
+      <workItem from="1579033026174" duration="31479000" />
+      <workItem from="1579515867906" duration="6655000" />
     </task>
     <task id="LOCAL-00001" summary="add animation to &quot;works&quot;">
       <created>1579082974448</created>
@@ -84,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579082974448</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add animation to &quot;works&quot;">
+      <created>1579083019983</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579083019983</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,25 +102,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add animation to &quot;works&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add animation to &quot;works&quot;" />
+    <MESSAGE value="update animation in block &quot;works&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="update animation in block &quot;works&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1579082971705">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1579779958439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579082971705" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579779958439" />
     <state x="318" y="143" key="EditFileWatcherDialog" timestamp="1578874999805">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="318" y="143" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1578874999805" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1579001279901">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1579542721803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579001279901" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579542721803" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1578874876063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578874876063" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1579083029561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579083029561" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579083008057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
